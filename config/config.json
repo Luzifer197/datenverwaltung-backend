@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "uploadDir": "upload",
+  "logFile": "logs/server.log"
+}
