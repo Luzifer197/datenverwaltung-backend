@@ -10,6 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "colors": "^1.4.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "winston": "^3.17.0"
   }
 }
